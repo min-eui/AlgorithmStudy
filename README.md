@@ -16,7 +16,7 @@
  - 김주현(팀원)
  - 서한샘(팀원)
 
-🍂문제 🍂
+🍂문제 🍂<br>
   1주차 문제 : 알고리즘과 조건문
    - [	두 수 비교하기](https://www.acmicpc.net/problem/1330)
    - [	시험 성적](https://www.acmicpc.net/problem/9498)
