@@ -18,8 +18,8 @@
 
 🍂문제 🍂
   1주차 문제 : 알고리즘과 조건문
-   -[	두 수 비교하기](https://www.acmicpc.net/problem/1330)
-   -[	시험 성적](https://www.acmicpc.net/problem/9498)
-   -[	윤년](https://www.acmicpc.net/problem/2753)
-   -[	주사위 세개](https://www.acmicpc.net/problem/2480)
+   - [	두 수 비교하기](https://www.acmicpc.net/problem/1330)
+   - [	시험 성적](https://www.acmicpc.net/problem/9498)
+   - [	윤년](https://www.acmicpc.net/problem/2753)
+   - [	주사위 세개](https://www.acmicpc.net/problem/2480)
    
