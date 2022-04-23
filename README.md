@@ -12,10 +12,14 @@
 
 💎참여 하는 사람 💎
  - 조민의(팀원)
- - 김주영(팀원)
+ - 안주영(팀원)
  - 김주현(팀원)
  - 서한샘(팀원)
 
 🍂문제 🍂
- - 1주차 문제 : 알고리즘과 입/출력
+  1주차 문제 : 알고리즘과 조건문
+   -[	두 수 비교하기](https://www.acmicpc.net/problem/1330)
+   -[	시험 성적](https://www.acmicpc.net/problem/9498)
+   -[	윤년](https://www.acmicpc.net/problem/2753)
+   -[	주사위 세개](https://www.acmicpc.net/problem/2480)
    
