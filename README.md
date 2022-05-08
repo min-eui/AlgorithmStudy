@@ -11,7 +11,7 @@
  - 기초 반에서 중급까지 갈 수 있도록 한다.
 
 💎참여 하는 사람 💎
- - 조민의(팀원)
+ - 조민의(팀장)
  - 안주영(팀원)
  - 김주현(팀원)
  - 서한샘(팀원)
@@ -23,3 +23,15 @@
    - [	윤년](https://www.acmicpc.net/problem/2753)
    - [	주사위 세개](https://www.acmicpc.net/problem/2480)
    
+  2주차 문제 : 별과 문자열
+   - [	별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+   - [	별 찍기 - 7](https://www.acmicpc.net/problem/2444)
+   - [	아스키코드](https://www.acmicpc.net/problem/11654)
+
+  3 주차 문제 : 문자열
+   - [	숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+   - [	상수](https://www.acmicpc.net/problem/2908)
+   - [	문자열 반복](https://www.acmicpc.net/problem/2675)
+
+
+
