@@ -36,7 +36,7 @@
   4 주차 문제 : 재귀 -  출처 : https://velog.io/@jeongin/Javascript-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98
    - [	팩토리얼](https://www.acmicpc.net/problem/10872)
    - [	피보나치 수 5](https://www.acmicpc.net/problem/10870)
-   - 재귀함수를 이용하여 2진수 변환하기
+   - 재귀함수를 이용하여 2진수 변환하기(let result = ''; let x = 11;)
    - 재귀함수를 이용하여 문자열 뒤집기(let x = 'bakjeongin')
 
 
