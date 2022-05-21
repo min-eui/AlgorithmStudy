@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		String a1 = Integer.toString(a);
+		String b1 = Integer.toString(b);
+		
+		StringBuffer sb = new StringBuffer(a1);
+		StringBuffer sb2 = new StringBuffer(b1);
+		String a2;
+		String b2;
+		// string reverse
+		a2 = sb.reverse().toString();
+		b2 = sb2.reverse().toString();
+		
+		//System.out.println(a2);
+		//System.out.println(b2);
+		
+		int a3 = Integer.parseInt(a2);
+		int b3 = Integer.parseInt(b2);
+		
+		if(a3>b3) {
+			System.out.println(a3);
+		}else {
+			System.out.println(b3);
+		}
+		
+	}
+}
