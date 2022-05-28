@@ -40,5 +40,10 @@
    - 재귀함수를 이용하여 2진수 변환하기(let result = ''; let x = 11;)
    - 재귀함수를 이용하여 문자열 뒤집기(let x = 'bakjeongin')
 
+  5 주차 문제 :  programmers 특집
+   - [	가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript)
+   - [	나누어 떨어지는 숫자배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=java)
+   - [	서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)
+
 
 
