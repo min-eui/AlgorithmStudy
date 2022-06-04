@@ -47,4 +47,8 @@
    - [	서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)
 
 
+  6 주차 문제 :  정렬 (출처 :  https://freedeveloper.tistory.com/274 )
+   - [	선택 정렬] : 처리되지 않은 데이터 중에서 가장 작은 데이터를 선택해 맨 앞에 있는 데이터와 바꾸는 것을 반복시키기 
+   - [	삽입 정렬] : 처리되지 않은 데이터를 하나씩 골라 적절한 위치에 삽입
+   - [	가장 큰 수] : (https://programmers.co.kr/learn/courses/30/lessons/42746)
 
