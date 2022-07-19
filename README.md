@@ -52,3 +52,8 @@
    - [	삽입 정렬] : 처리되지 않은 데이터를 하나씩 골라 적절한 위치에 삽입
    - [	가장 큰 수] : (https://programmers.co.kr/learn/courses/30/lessons/42746)
 
+
+  7 주차 문제 :  다시 시작
+   - [	약수구하기] : (https://www.acmicpc.net/problem/2501)
+   - [	이진수] : (https://www.acmicpc.net/problem/3460)
+   - [	소수 만들기] : (https://school.programmers.co.kr/learn/courses/30/lessons/12977)
